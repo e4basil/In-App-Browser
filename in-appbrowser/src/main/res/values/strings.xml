@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">In-App Browser</string>
+    <string name="title_activity_main">Web View</string>
+</resources>
