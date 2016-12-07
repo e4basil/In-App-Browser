@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">In-App Browser</string>
     <string name="title_activity_main">Web View</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_back">Back</string>
 </resources>
